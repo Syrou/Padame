@@ -3,6 +3,7 @@ buildscript {
         jcenter()
         maven { url 'https://plugins.gradle.org/m2/' }
         maven { url 'https://dl.bintray.com/jetbrains/kotlin-native-dependencies' }
+        maven { url "https://bintray.com/soywiz/soywiz/korio" }
     }
 
     dependencies {
@@ -18,7 +19,7 @@ plugins {
 repositories {
     mavenCentral()
     jcenter()
-    maven { url "https://jitpack.io" }
+    maven { url "https://bintray.com/soywiz/soywiz/korio" }
 }
 
 
@@ -41,18 +42,18 @@ kotlin {
         // in gradle.properties file and re-import your project in IDE.
         commonMain {
             dependencies{
-                api 'org.jetbrains.kotlin:kotlin-stdlib-common'
-                implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core-common:$coroutines"
-                implementation "com.soywiz:korio:$korVersion"
+                //api 'org.jetbrains.kotlin:kotlin-stdlib-common'
+                //implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core-common:$coroutines"
+                implementation "com.soywiz:korio-metadata:$korVersion"
             }
         }
 
         mingwMain {
             dependencies {
-                implementation "org.jetbrains.kotlin:kotlin-stdlib"
-                implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core-native_debug_mingw_x64:$coroutines"
-                //implementation "com.soywiz:korio:$korVersion"
-                implementation "org.jetbrains.kotlinx:atomicfu-windows64:$atomicfu"
+                //implementation "org.jetbrains.kotlin:kotlin-stdlib"
+                //implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core-native_debug_mingw_x64:$coroutines"
+                implementation "com.soywiz:korio-mingwx64:$korVersion"
+                //implementation "org.jetbrains.kotlinx:atomicfu-windows64:$atomicfu"
             }
         }
         mingwTest {
