@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz:kds-mingwx64:klib:1.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz/kds-mingwx64/1.6.1/c8f05b7a3f0a50fd549f15700fc2435b5f8fb07e/kds-mingwx64-1.6.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz/kds-mingwx64/1.6.1/1f196e656db228c446b64aab504d2a4efd3db322/kds-mingwx64-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

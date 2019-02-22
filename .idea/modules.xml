@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Padame.iml" filepath="$PROJECT_DIR$/Padame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Padame.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/Padame.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Padame.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Padame.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Padame.macOSMain.iml" filepath="$PROJECT_DIR$/.idea/modules/Padame.macOSMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Padame.macOSTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Padame.macOSTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Padame.mingwMain.iml" filepath="$PROJECT_DIR$/.idea/modules/Padame.mingwMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Padame.mingwTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Padame.mingwTest.iml" />
+    </modules>
+  </component>
+</project>

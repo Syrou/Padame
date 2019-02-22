@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz:korio-metadata:1.6.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Could not resolve com.soywiz:korio-metadata:1.6.4." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz/korio-metadata/1.6.4/2c935a7a4fd6d8d345a6229e3f2dab27ff0eba1a/korio-metadata-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz/korio-metadata/1.6.4/b0d4a26be6ee5cd9720dd6c04ef6648d52e3a708/korio-metadata-1.6.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

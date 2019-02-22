@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.soywiz:kds-macosx64:klib:1.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz/kds-macosx64/1.6.1/74dd8520885b0f75ccf95886e63106e623c5ad69/kds-macosx64-1.6.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.soywiz/kds-macosx64/1.6.1/99075b6cbb158d8dbb4205a6d64a1da5fb27effe/kds-macosx64-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

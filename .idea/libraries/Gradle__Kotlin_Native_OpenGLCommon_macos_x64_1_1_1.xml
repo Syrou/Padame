@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: Kotlin/Native:OpenGLCommon:macos_x64:1.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.konan/kotlin-native-macos-1.1.1/klib/platform/macos_x64/OpenGLCommon" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

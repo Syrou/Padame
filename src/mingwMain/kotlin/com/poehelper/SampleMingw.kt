@@ -1,8 +1,5 @@
 package com.poehelper
 
-fun hello(): String = "Hello, Kotlin/Native!"
-
-fun main() {
-    println(hello())
-
+actual fun test(): String {
+    return "This is MingW"
 }
