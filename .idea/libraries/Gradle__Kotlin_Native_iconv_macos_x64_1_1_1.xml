@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: Kotlin/Native:iconv:macos_x64:1.1.1">
-    <CLASSES>
-      <root url="file://$USER_HOME$/.konan/kotlin-native-macos-1.1.1/klib/platform/macos_x64/iconv" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
